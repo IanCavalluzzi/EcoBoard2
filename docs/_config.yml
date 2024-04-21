@@ -1,4 +1,9 @@
-theme: slate
 title: EcoBoard
 author: Ian Cavalluzzi
 description: Endless Pulp, Endless Options
+theme: just-the-docs
+
+url: iancavalluzzi.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
